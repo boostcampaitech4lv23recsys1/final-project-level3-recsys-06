@@ -31,5 +31,6 @@
 ## ML Repository
 
 ## 🗃 Structure
+![structure_userflow](https://user-images.githubusercontent.com/46878756/216823778-dda27cae-cd40-4784-a5f8-202cc0b2d25d.png)
 
-![structure](https://user-images.githubusercontent.com/46878756/216820392-85ed0588-e4ee-433c-8819-e89245e6abf5.png)
+
