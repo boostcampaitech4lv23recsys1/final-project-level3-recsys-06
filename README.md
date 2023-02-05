@@ -31,4 +31,5 @@
 ## ML Repository
 
 ## Structure
-![structure](https://user-images.githubusercontent.com/46878756/216819951-e322caef-ec2d-4de5-9596-027f0b72f4a4.png)
+
+![structure](https://user-images.githubusercontent.com/46878756/216820392-85ed0588-e4ee-433c-8819-e89245e6abf5.png)
