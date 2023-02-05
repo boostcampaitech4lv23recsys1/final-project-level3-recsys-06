@@ -10,7 +10,7 @@
 | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------:
 |                          [김유진](https://github.com/hello-im-yj)                           |                            [신희재](https://github.com/hwanseung2)                             |                        [유환승](https://github.com/hwanseung2)                           |                          [장윤성](https://github.com/JangYunSeong)                           |                            [정민주](https://github.com/jeongminju0815) 
 
-## Stack
+## 🛠 Stack
 
 ### Frontend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -30,6 +30,6 @@
 
 ## ML Repository
 
-## Structure
+## 🗃 Structure
 
 ![structure](https://user-images.githubusercontent.com/46878756/216820392-85ed0588-e4ee-433c-8819-e89245e6abf5.png)
