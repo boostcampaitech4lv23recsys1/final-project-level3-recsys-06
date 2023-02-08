@@ -28,7 +28,7 @@ Go ▶️ [**[recommendu-web]** repository](https://github.com/boostcampaitech4l
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/boostcampaitech4lv23recsys1/RecommendU-etl?color=6799FF)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/boostcampaitech4lv23recsys1/RecommendU-etl?color=6799FF)
 
-Go ▶️ [**[recommendu-web]** repository](https://github.com/boostcampaitech4lv23recsys1/RecommendU-etl)
+Go ▶️ [**[recommendu-etl]** repository](https://github.com/boostcampaitech4lv23recsys1/RecommendU-etl)
 
 ### ML
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white">
