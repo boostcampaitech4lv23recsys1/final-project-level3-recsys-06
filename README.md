@@ -40,4 +40,22 @@ Go ▶️ [**[recommendu-ml]** repository](https://github.com/boostcampaitech4lv
 ## 🗃 Structure
 ![structure_userflow](https://user-images.githubusercontent.com/46878756/216823778-dda27cae-cd40-4784-a5f8-202cc0b2d25d.png)
 
+## About RecommendU
+
+### 로그인 및 회원가입
+![image](https://user-images.githubusercontent.com/46878756/217691335-1738f0d0-59e6-49d5-9db9-991f92c03e8a.png)
+
+### 입력 및 추천 클릭
+![image](https://user-images.githubusercontent.com/46878756/217691416-cd600bbd-3a44-4fee-88d0-d678d5b7ddf9.png)
+
+### 답변이 있을때 클릭
+![image](https://user-images.githubusercontent.com/46878756/217691455-609800ea-0709-4ab9-a2b7-6d7d7f5a5bd2.png)
+
+### 자기소개서 보기
+![image](https://user-images.githubusercontent.com/46878756/217691566-821555c7-8bf5-4464-9d78-406cbac92536.png)
+
+### 마이 페이지
+![image](https://user-images.githubusercontent.com/46878756/217691615-2fbe3667-941b-4581-a5f6-574e06c7b20d.png)
+
+
 
