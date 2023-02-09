@@ -1,6 +1,7 @@
 # 맞춤형 자기소개서 추천 서비스 : RecommendU
 <div align="center">
 당신을 추천하는 가장 좋은 방법, RecommendU
+
 ![image](https://user-images.githubusercontent.com/46878756/216523150-4b74d0d1-9b25-4b7a-89bc-c69e95d82c68.png)
 
 사용자 맥락을 반영하여 다양한 추천 태그를 통해 합격 자기소개서를 추천해주는 서비스 RecommendU입니다.
