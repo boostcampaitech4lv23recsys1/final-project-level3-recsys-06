@@ -43,19 +43,24 @@ Go ▶️ [**[recommendu-ml]** repository](https://github.com/boostcampaitech4lv
 ## About RecommendU
 
 ### 로그인 및 회원가입
-![image](https://user-images.githubusercontent.com/46878756/217691335-1738f0d0-59e6-49d5-9db9-991f92c03e8a.png)
+![회원가입](https://user-images.githubusercontent.com/46878756/217692684-0c90c911-7891-48e7-9c92-38643b7ca4a3.gif)
+
 
 ### 입력 및 추천 클릭
-![image](https://user-images.githubusercontent.com/46878756/217691416-cd600bbd-3a44-4fee-88d0-d678d5b7ddf9.png)
+![추천결과](https://user-images.githubusercontent.com/46878756/217692726-3e6af33d-dd3d-450f-9a86-9f861ecd2dcf.gif)
+
 
 ### 답변이 있을때 클릭
-![image](https://user-images.githubusercontent.com/46878756/217691455-609800ea-0709-4ab9-a2b7-6d7d7f5a5bd2.png)
+![답변쓸때](https://user-images.githubusercontent.com/46878756/217692704-4f95e0a6-a102-4188-a894-cb4946e44e79.gif)
+
 
 ### 자기소개서 보기
-![image](https://user-images.githubusercontent.com/46878756/217691566-821555c7-8bf5-4464-9d78-406cbac92536.png)
+![스크랩클릭](https://user-images.githubusercontent.com/46878756/217692711-204b09ae-05b0-46a1-be85-54def90b65b4.gif)
 
 ### 마이 페이지
-![image](https://user-images.githubusercontent.com/46878756/217691615-2fbe3667-941b-4581-a5f6-574e06c7b20d.png)
+![마이페이지](https://user-images.githubusercontent.com/46878756/217692694-879fcf3b-b53a-4c5f-a221-751953baa151.gif)
+
+
 
 
 
