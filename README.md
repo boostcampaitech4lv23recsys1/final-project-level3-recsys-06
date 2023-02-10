@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/watch?v=rrT9dR9fZ4w"><img src="https://img.shields.io/badge/Presentation-FF0000?style=flat-square&logo=YouTube&logoColor=white">  <a href="https://www.notion.so/boostcampait/RecSys-06-RecommendU-4922b47ab8424b51b878a9ff5a57cc9c?pvs=4"><img src="https://img.shields.io/badge/PDF-000000?style=flat-square&logo=Notion&logoColor=white">
 
 <p align="center">
-<img src="./img/LOGO1.png" height = "420" alt="" align=center />
+<img src="./img/LOGO2.png" height = "160" alt="" align=center />
 <p>
 
 </div>
