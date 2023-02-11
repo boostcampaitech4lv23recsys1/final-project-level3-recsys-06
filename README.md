@@ -39,7 +39,7 @@ Go ▶️ [**[recommendu-etl]** repository](https://github.com/boostcampaitech4l
 Go ▶️ [**[recommendu-ml]** repository](https://github.com/boostcampaitech4lv23recsys1/RecommendU-ml)
 ## 🚀 Architecture
 <p align="center">
-<img src="./img/Architecture.png" height = "320" alt="" align=center />
+<img src="./img/Architecture.png" alt="" align=center />
 <p>
 
 ## 📌 About RecommendU
